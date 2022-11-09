@@ -1,7 +1,7 @@
 # Projeto de Script IaC Packages - Chocolatey
 Este script foi criado para automatizar processos de instalação e configuração de estações por IaC
 
-##Descrição
+## Descrição
 Através do Chocolatey faço o download, instalação e atualização de ferramentas utilizadas sistematicamente. Após esta instalação gero um txt com as informações de IP, PCName e MAC da máquina, anexo o arquivo em um e-mail automatizado e o envio para levar a informação facilmente à um próximo processo.
 
 ## Habilidades desenvolvidas
